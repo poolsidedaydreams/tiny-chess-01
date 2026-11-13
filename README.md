@@ -1,4 +1,4 @@
-# tiny-chess-01 entry
+# tiny-chess-01
 
-A chess engine in at most 4,096 bytes of Python, playing the make.fun
-house gauntlet through the environment server.
+Compact chess engine in 4 KB of Python. main.py is the whole engine:
+it plays the house gauntlet through the env. MIT licensed.
